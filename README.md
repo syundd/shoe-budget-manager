@@ -20,5 +20,5 @@ Make sure you have Python installed. You will need `customtkinter` to run the GU
    cd shoe-budget-manager
 ###Install the dependencies: pip install customtkinter --break-system-packages
 
-#-----Running the App
-***Run the main script:    python3 sapp.py
+###Running the App
+-Run the main script:    python3 sapp.py
